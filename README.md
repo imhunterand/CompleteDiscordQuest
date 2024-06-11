@@ -1,8 +1,10 @@
-# CompleteDiscordQuest
-Alat Otomatisasi Penyelesaian Misi Discord
+### 
+|    CompleteDiscordQuest    |
+| ------------- |
+|![Index](https://camo.githubusercontent.com/39cc14e5170f8fc9ad4e2384a0c8e69f46f2cd972ab4ad8f81a5f5ad682bbeb7/68747470733a2f2f692e7974696d672e636f6d2f76692f6152456d4934545731416f2f6d617872657364656661756c742e6a7067)|
 
 ## Descriptions
-
+CompleteDiscordQuest
 Alat ini mengotomatiskan penyelesaian misi Discord yang memerlukan streaming selama durasi tertentu. Dengan memalsukan data streaming yang diperlukan, alat ini memungkinkan pengguna untuk memenuhi persyaratan misi dengan mudah.
 
 ## Fitur
@@ -40,3 +42,4 @@ Alat ini mengotomatiskan penyelesaian misi Discord yang memerlukan streaming sel
 - Skrip ini hanya berfungsi di aplikasi desktop Discord.
 - Pastikan kamu memiliki setidaknya satu orang lain di saluran suara.
 
+[![Star History Chart](https://api.star-history.com/svg?repos=imhunterand/CompleteDiscordQuest&type=Date)](https://star-history.com/#imhunterand/CompleteDiscordQuest&Date)
